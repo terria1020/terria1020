@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 💬 Ask me about ...
-hi.
+I LIKE Apple.
 
 #### 🌱 I’m currently learning ...
 JavaScript, JAVA, Python
