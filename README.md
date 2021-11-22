@@ -15,6 +15,10 @@ C, C++, JAVA, JAVA GUI, Python, Reverse Engineering
 #### 🔖 explanation my Github ...
 almost Toy Project🤣
 
+#### 🤝 contact me ...
+jaehan1346@gmail.com
+jaehan1346@icloud.com
+
 <!--
 **terria1020/terria1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
