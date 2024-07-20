@@ -2,19 +2,19 @@
 
 #### 💬 Ask me about ...
 
-I LIKE Apple.
+Hello.
 
 #### 🌱 I’m currently learning ...
 
-JavaScript, JAVA, Python
+Java, TypeScript
 
 #### 🤔 I’m looking for something interesting ...
 
-Backend Develop, ~~Network~~, ~~Reverse Engineering~~
+Backend Develop (Spring Boot, NestJS) 
 
 #### 🌱 I have been try to do something ...
 
-C, C++, JAVA, JAVA GUI, Python, Reverse Engineering
+C, C++, JAVA, Python
 
 #### 🔖 explanation my Github ...
 
