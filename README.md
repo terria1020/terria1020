@@ -14,7 +14,7 @@ Backend Develop (Spring Boot, NestJS)
 
 #### 🌱 I have been try to do something ...
 
-C, C++, JAVA, Python
+C, C++, JAVA, Python, JS/TS (node)
 
 #### 🔖 explanation my Github ...
 
