@@ -10,7 +10,7 @@ Java, TypeScript
 
 #### 🤔 I’m looking for something interesting ...
 
-Backend Develop (Spring Boot, NestJS) 
+Backend Develop (Spring Boot, NodeJS (expressJS), NestJS) 
 
 #### 🌱 I have been try to do something ...
 
